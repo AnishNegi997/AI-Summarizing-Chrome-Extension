@@ -174,19 +174,8 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 
 This project is open source and available for personal and commercial use.
 
-## 🙏 Acknowledgments
-
-- Powered by [Google Gemini AI](https://ai.google.dev/)
-- Uses [Generative Language API](https://ai.google.dev/api)
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-1. Check the Troubleshooting section above
-2. Review the browser console for error messages
-3. Verify your API key and Google Cloud Console settings
-
 ---
 
 **Note**: This extension requires an active internet connection and a valid Google Gemini API key to function.
+
 
